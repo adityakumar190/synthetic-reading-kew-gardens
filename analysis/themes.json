@@ -1,0 +1,306 @@
+{
+  "work": {
+    "title": "Kew Gardens",
+    "author": "Virginia Woolf"
+  },
+  "annotations": [
+    {
+      "id": "A001",
+      "quote": "from the red blue or yellow gloom of the throat emerged a straight bar, rough with gold dust and slightly clubbed at the end",
+      "primary_theme": "NATURE_IMAGERY",
+      "secondary_themes": [
+        "SENSORY_DESCRIPTION"
+      ],
+      "interpretation": "Direct description of flower anatomy at macro close-up scale. Color, texture ('gold dust'), and structural form ('straight bar', 'clubbed') are explicitly detailed.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.98
+    },
+    {
+      "id": "A002",
+      "quote": "when they moved the red blue and yellow lights passed one over the other, staining an inch of the brown earth beneath with a spot of the most intricate colour.",
+      "primary_theme": "SENSORY_DESCRIPTION",
+      "secondary_themes": [
+        "NATURE_IMAGERY",
+        "MOVEMENT_AND_SPACE"
+      ],
+      "interpretation": "Describes light filtering through petals onto the soil. The text explicitly captures optical movement and color interaction ('staining an inch... with a spot of the most intricate colour').",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "A003",
+      "quote": "The light fell either upon the smooth grey back of a pebble, or the shell of a snail with its brown circular veins, or, falling into a raindrop, it expanded with such intensity of red, blue, and yellow the thin walls of water that one expected them to burst and disappear.",
+      "primary_theme": "SENSORY_DESCRIPTION",
+      "secondary_themes": [
+        "NATURE_IMAGERY",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Explicit visual sensory details of light refractivity. The narrator's remark ('one expected them to burst and disappear') introduces an observer's expectation rather than a physical event.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": "The expectation of bursting strongly implies a heightened, almost unstable visual tension perceived by an observer.",
+      "confidence": 0.92
+    },
+    {
+      "id": "A004",
+      "quote": "The figures of these men and women straggled past the flower-bed with a curiously irregular movement not unlike that of the white and blue butterflies who crossed the turf in zig-zag flights from bed to bed.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "MOVEMENT_AND_SPACE",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Explicit structural comparison (simile) between human walking trajectories and insect flight paths, drawing an intentional parallel between human and non-human garden inhabitants.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.96
+    },
+    {
+      "id": "A005",
+      "quote": "The man kept this distance in front of the woman purposely, though perhaps unconsciously, for he wished to go on with his thoughts.",
+      "primary_theme": "NARRATIVE_PERSPECTIVE",
+      "secondary_themes": [
+        "MOVEMENT_AND_SPACE",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Third-person omniscient narration entering character consciousness. The phrase 'purposely, though perhaps unconsciously' reflects narrative inference and interiority rather than purely external observation.",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "A006",
+      "quote": "\"Fifteen years ago I came here with Lily,",
+      "thought.": "primary_theme\": \"NARRATIVE_PERSPECTIVE",
+      "secondary_themes": [
+        "HUMAN_NATURE_RELATIONSHIP"
+      ],
+      "interpretation": "Direct representation of internal monologue/thought representation, linking present garden space with past temporal memory.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.98,
+      "primary_theme": "NARRATIVE_PERSPECTIVE"
+    },
+    {
+      "id": "A007",
+      "quote": "And my love, my desire, were in the dragonfly; for some reason I thought that if it settled there, on that leaf, the broad one with the red flower in the middle of it, if the dragonfly settled on the leaf, she would say \"Yes\" at once.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "The character explicitly projects psychological emotional states ('love', 'desire') onto a natural object (the dragonfly) and assigns superstition to its movement.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": "While the projection is explicitly stated by the speaker, the causal link between the insect landing and a marriage proposal is a subjective mental construct.",
+      "confidence": 0.94
+    },
+    {
+      "id": "A008",
+      "quote": "Aren’t they one’s past, all that remains of it, those men and women, those ghosts lying under the trees, … one’s happiness, one’s reality?",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Eleanor explicitly merges human visitors/ghosts with the garden landscape, conceptualizing memory as physical presence situated under trees.",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": "The term 'ghosts' can be interpreted literally as memory associations or metaphorically as other anonymous visitors occupying space in the garden.",
+      "confidence": 0.88
+    },
+    {
+      "id": "A009",
+      "quote": "They walked on past the flower-bed, now walking four abreast, and soon diminished in size among the trees and looked half transparent as the sunlight and shade swam over their backs in large trembling irregular patches.",
+      "primary_theme": "MOVEMENT_AND_SPACE",
+      "secondary_themes": [
+        "SENSORY_DESCRIPTION",
+        "HUMAN_NATURE_RELATIONSHIP"
+      ],
+      "interpretation": "Describes visual dissolution of figures into distance and light patterns. Explicit spatial transition ('walked on past', 'diminished in size').",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.93
+    },
+    {
+      "id": "A010",
+      "quote": "In the oval flower bed the snail, whose shell had been stained red, blue, and yellow for the space of two minutes or so, now appeared to be moving very slightly in its shell, and next began to labour over the crumbs of loose earth which broke away and rolled down as it passed over them.",
+      "primary_theme": "MOVEMENT_AND_SPACE",
+      "secondary_themes": [
+        "NATURE_IMAGERY",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Shift in focalisation to a non-human organism traversing minute spatial terrain. Recalls earlier light reflection patterns ('stained red, blue, and yellow').",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "A011",
+      "quote": "It appeared to have a definite goal in front of it, differing in this respect from the singular high stepping angular green insect who attempted to cross in front of it and waited for a second with its antennae trembling as if in deliberation, and then stepped off as rapidly and strangely in the opposite direction.",
+      "primary_theme": "NARRATIVE_PERSPECTIVE",
+      "secondary_themes": [
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS",
+        "NATURE_IMAGERY"
+      ],
+      "interpretation": "Narrative anthropomorphism and perspective. The narrator attributes 'deliberation' and 'goal' to insects using observational qualifiers ('appeared to', 'as if in').",
+      "evidence_type": "tentative",
+      "alternative_interpretation": "The narrator explicitly qualifies these motives with 'appeared', signaling that intentionality is an interpretive projection rather than an established biological fact.",
+      "confidence": 0.87
+    },
+    {
+      "id": "A012",
+      "quote": "Brown cliffs with deep green lakes in the hollows, flat bladelike trees that waved from root to tip, round boulders of grey stone, vast crumpled surfaces of a thin crackling texture—all these objects lay across the snail’s progress between one stalk and another to his goal.",
+      "primary_theme": "NATURE_IMAGERY",
+      "secondary_themes": [
+        "SENSORY_DESCRIPTION",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Focalised depiction of garden micro-features re-scaled through a snail's perceptive framework (soil/leaves rendered as cliffs, lakes, trees, and boulders).",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": "The metaphors ('cliffs', 'boulders') map natural micro-objects onto macro-geological landscapes, expressing spatial relativity.",
+      "confidence": 0.94
+    },
+    {
+      "id": "A013",
+      "quote": "He was talking about spirits—the spirits of the dead, who, according to him, were even now telling him all sorts of odd things about their experiences in Heaven.",
+      "primary_theme": "NARRATIVE_PERSPECTIVE",
+      "secondary_themes": [
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Indirect report of character dialogue filtered through third-person narrator commentary.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.91
+    },
+    {
+      "id": "A014",
+      "quote": "After looking at it for a moment in some confusion, the old man bent his ear to it and seemed to answer a voice speaking from it, for he began talking about the forests of Uruguay which he had visited hundreds of years ago in company with the most beautiful young woman in Europe.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "NARRATIVE_PERSPECTIVE",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Eccentric interaction with a flower. The narrative frames the action observationally ('seemed to answer'), marking the communication as a psychological projection or delusion.",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": null,
+      "confidence": 0.89
+    },
+    {
+      "id": "A015",
+      "quote": "Nell, Bert, Lot, Cess, Phil, Pa, he says, I says, she says, I says, I says, I says—\"",
+      "sugar.": "",
+      "primary_theme": "REPETITION_AND_PATTERN",
+      "secondary_themes": [
+        "SENSORY_DESCRIPTION"
+      ],
+      "interpretation": "Rhythmic, repetitive auditory speech patterns of lower-middle-class women, structured almost as auditory background noise or chant.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.96
+    },
+    {
+      "id": "A016",
+      "quote": "The ponderous woman looked through the pattern of falling words at the flowers standing cool, firm, and upright in the earth, with a curious expression.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "SENSORY_DESCRIPTION",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Juxtaposition of human auditory activity ('pattern of falling words') against natural flora ('flowers standing cool, firm, and upright'). Direct visual interaction.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.92
+    },
+    {
+      "id": "A017",
+      "quote": "They were both in the prime of youth, or even in that season which precedes the prime of youth, the season before the smooth pink folds of the flower have burst their gummy case, when the wings of the butterfly though fully grown are motionless in the sun.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "NATURE_IMAGERY",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Explicit botanical and entomological analogies ('smooth pink folds of the flower', 'wings of the butterfly') used by the narrator to define human developmental stages.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "A018",
+      "quote": "The couple stood still on the edge of the flower bed, and together pressed the end of her parasol deep down into the soft earth.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "MOVEMENT_AND_SPACE",
+        "SENSORY_DESCRIPTION"
+      ],
+      "interpretation": "Physical action linking human bodily presence and man-made artifact (parasol) directly into the garden soil.",
+      "evidence_type": "explicit",
+      "alternative_interpretation": null,
+      "confidence": 0.93
+    },
+    {
+      "id": "A019",
+      "quote": "words with short wings for their heavy body of meaning, inadequate to carry them far and thus alighting awkwardly upon the very common objects that surrounded them",
+      "primary_theme": "AMBIGUITY_AND_MULTIPLE_MEANINGS",
+      "secondary_themes": [
+        "NARRATIVE_PERSPECTIVE",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Metaphorical depiction of language through organic imagery ('short wings'). Narrator reflects on the inadequacy of verbal expression relative to inner experience.",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": null,
+      "confidence": 0.91
+    },
+    {
+      "id": "A020",
+      "quote": "How hot it was! So hot that even the thrush chose to hop, like a mechanical bird, in the shadow of the flowers, with long pauses between one movement and the next",
+      "primary_theme": "SENSORY_DESCRIPTION",
+      "secondary_themes": [
+        "NATURE_IMAGERY",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Atmospheric sensory description of extreme heat. Compares natural bird movement to an artificial mechanism ('mechanical bird').",
+      "evidence_type": "explicit",
+      "alternative_interpretation": "The 'mechanical bird' comparison highlights how extreme heat distorts natural behaviors into stilted, artificial motions.",
+      "confidence": 0.94
+    },
+    {
+      "id": "A021",
+      "quote": "instead of rambling vaguely the white butterflies danced one above another, making with their white shifting flakes the outline of a shattered marble column above the tallest flowers",
+      "primary_theme": "NATURE_IMAGERY",
+      "secondary_themes": [
+        "MOVEMENT_AND_SPACE",
+        "AMBIGUITY_AND_MULTIPLE_MEANINGS"
+      ],
+      "interpretation": "Visual image constructed by insect flight paths. The organic movement momentarily forms an architectural shape ('shattered marble column').",
+      "evidence_type": "explicit",
+      "alternative_interpretation": "The illusion of architectural structure created by biological flight suggests a fleeting convergence of classical artifice and organic movement.",
+      "confidence": 0.89
+    },
+    {
+      "id": "A022",
+      "quote": "dissolving like drops of water in the yellow and green atmosphere, staining it faintly with red and blue.",
+      "primary_theme": "HUMAN_NATURE_RELATIONSHIP",
+      "secondary_themes": [
+        "MOVEMENT_AND_SPACE",
+        "SENSORY_DESCRIPTION",
+        "REPETITION_AND_PATTERN"
+      ],
+      "interpretation": "Human bodies merging visually into the garden's color and light atmosphere. Echoes earlier color language ('staining', 'red', 'blue', 'yellow').",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "A023",
+      "quote": "like a vast nest of Chinese boxes all of wrought steel turning ceaselessly one within another the city murmured; on the top of which the voices cried aloud, and the petals of myriads of flowers flashed their colours into the air.",
+      "primary_theme": "MOVEMENT_AND_SPACE",
+      "secondary_themes": [
+        "REPETITION_AND_PATTERN",
+        "SENSORY_DESCRIPTION",
+        "HUMAN_NATURE_RELATIONSHIP"
+      ],
+      "interpretation": "Climactic spatial synthesis linking urban industrial machinery outside ('wrought steel', 'omnibuses') with human voices and garden nature in a unified multi-layered perceptual acoustic/visual frame.",
+      "evidence_type": "strongly_implied",
+      "alternative_interpretation": null,
+      "confidence": 0.93
+    }
+  ]
+}
